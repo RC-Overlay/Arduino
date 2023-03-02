@@ -3,7 +3,8 @@
 # most of the time, this happens for major releases.
 # (...unless we stop using version tags and switch to hashes...)
 
-version: 2
+version: 3
+
 updates:
   - package-ecosystem: "github-actions"
     directory: "/"
